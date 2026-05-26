@@ -1,0 +1,29 @@
+[33mtag v1.0.0[m
+Tagger: Stéphane Leite <sleite1910@gmail>
+Date:   Tue May 26 10:53:32 2026 +0200
+
+Version 1.0.0 - Version initiale avec contact
+
+[33mcommit a28abdb068a01025110ebd526443d1ec8ddf4b89[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m
+Merge: 46ab504 2f68a4c
+Author: Stéphane Leite <sleite1910@gmail>
+Date:   Tue May 26 10:44:53 2026 +0200
+
+    conflit resolve
+
+[1mdiff --cc README.me[m
+[1mindex 1b81bf2,91630fc..b0f4ab3[m
+[1m--- a/README.me[m
+[1m+++ b/README.me[m
+[36m@@@ -12,6 -12,6 +12,10 @@@[m [mCe projet est un exercice de formation [m
+  - Git[m
+  - Restic[m
+  [m
+[32m +## Auteur[m
+[32m +[m
+[31m- Stéphane[m
+[32m++Stéphane[m
+[32m++[m
+[32m+ ## Contact[m
+[32m+ [m
+[32m+ /home/ipme/Bureau/DWWM/git/git-exo/context.txt[m
